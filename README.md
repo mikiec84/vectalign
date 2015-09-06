@@ -11,7 +11,7 @@ Here are some examples of what you can do with the help of VectAlign (take a loo
 <img src="http://s9.postimg.org/a5tdgfppn/morph4.gif" width="140px">
 
 
-As stated in the [official docs] two paths must be *compatible* so that they can be morphed, which means that the **paths must be composed by the same list of SVG commands** (in terms of length and type of commands). 
+As stated In the [official docs] two paths must be *compatible* so that they can be morphed, which means that the **paths must be composed by the same list of SVG commands** (in terms of length and type of commands). 
 
 Example of **compatible paths**: 
 ```a
